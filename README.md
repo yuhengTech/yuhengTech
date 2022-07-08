@@ -1,7 +1,5 @@
 ### Hello,world
 ![Metrics](https://metrics.lecoq.io/AliothUMa?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-![stats](https://github-readme-stats.vercel.app/api?username=AliothUMa&show_icons=true?theme=radical)
-<br>
 <!--
 **AliothUMa/AliothUMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
