@@ -1,4 +1,4 @@
-### [Github Pages](https://aliothuma.github.io/)
+## [Github Page](https://aliothuma.github.io/)
 ![Metrics](https://metrics.lecoq.io/AliothUMa?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 <!--
 **AliothUMa/AliothUMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
